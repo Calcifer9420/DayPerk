@@ -1,0 +1,37 @@
+DayPerk（薪咖）
+Copyright 2026 DayPerk contributors
+Original DayPerk code is source-available under PolyForm Strict License 1.0.0.
+This does not replace or restrict the licenses of third-party components.
+
+Third-party acknowledgements:
+- domzilla/Caffeine — MIT License.
+  The full copyright and license text is included in
+  DayPerk/Sources/Resources/Caffeine-LICENSE.txt.
+- NateScarlet/holiday-cn — MIT License, Copyright (c) 2019 NateScarlet.
+  License: DayPerk/Sources/Resources/HolidayPlans-LICENSE.txt.
+  Government source links remain in each calendar JSON papers field.
+
+- Nager.Date — MIT License, Copyright (c) 2016 nager.at.
+  Public holiday data is retrieved from the public Nager.Date API.
+  License: DayPerk/Sources/Resources/NagerDate-LICENSE.txt.
+
+- French public holiday data — Direction interministérielle du numérique (DINUM),
+  Licence Ouverte / Open Licence 2.0.
+  Source: https://calendrier.api.gouv.fr/jours-feries/
+  Dataset: https://www.data.gouv.fr/datasets/jours-feries-en-france
+  Retrieved 2026-11-25; national dates and Alsace-Moselle additions are normalized
+  to the app calendar format. This is a data reuse, not an official endorsement.
+  Terms: https://www.etalab.gouv.fr/licence-ouverte-open-licence/
+
+- GSAP 3.15.0 — GSAP Standard "No Charge" License.
+  Bundled only for offline payday animation; original notices remain in
+  DayPerk/Sources/Resources/PaydayGSAP.js and GSAP-NOTICE.txt.
+- StarLoveSweety（宅在家粉條甜）— author-published commercial-use permission.
+  Source and permission: DayPerk/Sources/Resources/StarLoveSweety-AUTHORIZATION.txt.
+- DynaPuff, Mochiy Pop One and Bagel Fat One — SIL Open Font License 1.1.
+  Fixed SVG title artwork is derived from these fonts; copyright and license
+  texts are retained in Resources/DynaPuff-LICENSE.txt,
+  Resources/MochiyPopOne-LICENSE.txt and Resources/BagelFatOne-LICENSE.txt.
+
+Third-party materials retain their respective licenses. Attribution does not
+imply endorsement of DayPerk by the third-party authors.

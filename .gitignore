@@ -1,0 +1,46 @@
+# 本机构建、调试与 Xcode 个人配置
+build/
+build.noindex/
+DerivedData/
+.build/
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xcworkspace/
+*.app/
+*.xcarchive/
+*.xcresult/
+*.dSYM/
+*.dSYM.zip
+*.ipa
+*.zip
+*.log
+.DS_Store
+._*
+
+# 认证材料、个人存储、内部草稿及工具配置
+*.p12
+*.p8
+*.mobileprovision
+*.sqlite*
+*.db
+.env*
+!*.example
+personal-data/
+private-data/
+specs/
+.specify/
+.claude/
+.cursor/
+tasks.md
+design.md
+requirements.md
+.workflow-confirmations.json
+
+# 本机演示数据、截图原稿及演示构建，禁止发布
+/LocalPreview/
+
+# 用户导出的完整备份与报表
+*.dayperk
+*.dayperk.json
+*.xlsx

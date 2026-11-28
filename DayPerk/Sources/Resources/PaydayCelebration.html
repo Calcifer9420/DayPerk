@@ -1,0 +1,222 @@
+<!doctype html><html><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'unsafe-inline'; img-src data:; connect-src 'none'; frame-src 'none'; object-src 'none'; base-uri 'none'">
+<title>DayPerk</title>
+<script>
+const options=window.dayperkOptions||{language:'en',accent:'#33D1F5',reduceMotion:false};
+window.dayperkOptions=options;
+document.documentElement.style.setProperty('--language',options.language);
+document.documentElement.style.setProperty('--theme-accent',options.accent);
+window.addEventListener('error',()=>window.webkit?.messageHandlers.payday.postMessage('failed'));
+window.addEventListener('unhandledrejection',()=>window.webkit?.messageHandlers.payday.postMessage('failed'));
+</script>
+<script src="PaydayGSAP.js"></script><script src="PaydayConfetti.js"></script><script src="PaydayGlyphs.js"></script>
+<style>html,body{margin:0;width:100%;height:100%;overflow:hidden;background:transparent;pointer-events:none}*{box-sizing:border-box}</style>
+</head><body><style>#root{position:absolute;inset:0;overflow:hidden;font-family:system-ui,sans-serif;color:#edf5f4;background:radial-gradient(ellipse at 49% 44%,#19474c 0%,#0c2e34 43%,#091f27 100%)}
+.wallpaper{position:absolute;inset:0;width:100%;height:100%;opacity:.3}
+.menu{position:absolute;top:0;left:0;right:0;height:40px;background:#001b2380;display:flex;align-items:center;justify-content:space-between;padding:0 30px;font-size:15px;font-weight:600;color:#c9dadd}.menu-left{display:flex;align-items:center;gap:25px}.coffee{font-size:24px;color:#36cce3}
+.panel{position:absolute;left:0;top:0;width:576px;height:799px;overflow:hidden;isolation:isolate;border-radius:22px;box-shadow:0 28px 80px #00121dcc,0 0 0 1px #78bec72b;background:#052830}
+.panel-image{position:absolute;inset:0;width:100%;height:100%;object-fit:contain}
+.dashboard-ui{position:absolute;inset:0;filter:blur(0px)}
+.background-haze{position:absolute;inset:0;z-index:3;pointer-events:none;opacity:0;background:linear-gradient(180deg,#032b3510 0%,#032b3530 35%,#032b3518 100%)}
+.panel-notch{position:absolute;left:949px;top:132px;width:22px;height:22px;border-radius:4px;background:#052830;transform:rotate(45deg)}
+.switch{position:absolute;left:465px;top:269px;width:60px;height:33px;background:#3d5d66;border-radius:20px;border:1px solid #47717b;overflow:hidden;z-index:2}.knob{position:absolute;left:4px;top:3px;width:25px;height:25px;border-radius:50%;background:#fff}
+.headline{position:absolute;top:68px;left:0;width:100%;height:290px;display:flex;flex-direction:column;justify-content:center;margin:0;text-align:center;z-index:50;font-size:110px;line-height:1.12;font-weight:400;letter-spacing:0;color:#fff8df;text-shadow:none}
+.headline-line{display:flex;justify-content:center;white-space:nowrap;flex-shrink:0}
+.letter{position:relative;display:inline-block;margin:0 1px;opacity:0;transform-origin:50% 80%;--letter-edge:1.4px;filter:drop-shadow(0 2px 0 #d5ac65) drop-shadow(0 3px 3px #001d2966)}
+.headline:lang(zh) .letter{--letter-edge:3px;margin:0 2px}
+.headline:lang(zh-Hant) .letter{--letter-edge:0px;margin:0 5px;filter:drop-shadow(0 1.5px 0 #d5ac65) drop-shadow(0 2px 2px #001d2966)}
+.headline:lang(ja) .letter{--letter-edge:2.6px}
+.letter svg{display:block;width:100%;height:100%;overflow:visible}
+.glyph-body{stroke:#ffe7ac;stroke-width:var(--letter-edge);stroke-linejoin:round;paint-order:stroke fill}
+.character{position:absolute;left:51px;top:296px;width:520px;height:460px;z-index:10;opacity:0}
+.balloon{position:absolute;top:830px;z-index:5;opacity:0;transform-origin:50% 25%}.balloon svg{width:100%;height:100%}
+.clock-out-confetti{position:absolute;inset:0;width:100%;height:100%;z-index:6;pointer-events:none}
+.twinkle{position:absolute;width:23px;height:23px;z-index:51;opacity:0}
+.note{position:absolute;left:425px;top:505px;z-index:9;font-size:28px;color:#ffe4a1;opacity:0}
+.footnote{position:absolute;bottom:48px;left:0;right:0;text-align:center;font-size:16px;letter-spacing:2px;color:#91b9be}
+</style><div id="root" data-composition-id="payday" data-width="576" data-height="799">
+
+<div class="panel" id="celebration-bounds">
+<div class="balloon" id="balloon-0" style="left:31px;width:34px;height:71.4px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#f6ce69"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#f6ce69"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-1" style="left:191px;width:41px;height:86.10000000000001px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#70d7c7"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#70d7c7"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-2" style="left:413px;width:48px;height:100.80000000000001px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#f09da9"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#f09da9"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-3" style="left:189px;width:37px;height:77.7px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#b8a3e9"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#b8a3e9"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-4" style="left:27px;width:44px;height:92.4px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#f6ce69"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#f6ce69"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-5" style="left:435px;width:51px;height:107.10000000000001px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#70d7c7"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#70d7c7"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-6" style="left:397px;width:40px;height:84.0px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#f09da9"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#f09da9"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-7" style="left:421px;width:47px;height:98.7px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#b8a3e9"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#b8a3e9"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-8" style="left:507px;width:36px;height:75.60000000000001px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#f6ce69"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#f6ce69"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-9" style="left:147px;width:43px;height:90.3px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#70d7c7"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#70d7c7"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-10" style="left:357px;width:50px;height:105.0px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#f09da9"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#f09da9"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-11" style="left:121px;width:39px;height:81.9px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#b8a3e9"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#b8a3e9"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-12" style="left:455px;width:46px;height:96.60000000000001px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#f6ce69"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#f6ce69"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-13" style="left:343px;width:35px;height:73.5px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#70d7c7"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#70d7c7"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-14" style="left:293px;width:42px;height:88.2px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#f09da9"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#f09da9"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-15" style="left:305px;width:49px;height:102.9px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#b8a3e9"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#b8a3e9"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-16" style="left:379px;width:38px;height:79.8px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#f6ce69"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#f6ce69"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-17" style="left:515px;width:45px;height:94.5px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#70d7c7"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#70d7c7"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-18" style="left:205px;width:34px;height:71.4px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#f09da9"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#f09da9"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<div class="balloon" id="balloon-19" style="left:465px;width:41px;height:86.10000000000001px" data-layout-ignore data-layout-allow-overflow><svg viewBox="0 0 100 210" aria-hidden="true"><path d="M50 114 C29 140 70 153 46 205" fill="none" stroke="#d4e7e1" stroke-opacity=".5" stroke-width="1.5"/><path d="M46 110 L54 110 L58 117 Q50 113 42 117Z" fill="#b8a3e9"/><ellipse cx="50" cy="57" rx="43" ry="53" fill="#b8a3e9"/><path d="M29 20 C18 29 16 45 18 55" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/></svg></div>
+<canvas id="clock-out-confetti" class="clock-out-confetti" width="576" height="799" aria-hidden="true" data-layout-ignore></canvas>
+<div class="character" data-layout-ignore><svg viewBox="0 0 520 460" width="520" height="460" role="img" aria-label="戴礼帽的黄豆人，两个圆球手，拿着极简锥形喇叭，歪头眨眼庆祝">
+<defs>
+ <radialGradient id="bean-yellow" cx=".32" cy=".2" r=".95"><stop stop-color="#ffdf47"/><stop offset=".8" stop-color="#ffda34"/><stop offset="1" stop-color="#f9c83a"/></radialGradient>
+ <radialGradient id="hand-yellow" cx=".3" cy=".25" r=".95"><stop stop-color="#ffe365"/><stop offset="1" stop-color="#ffd43f"/></radialGradient>
+<clipPath id="left-eye-window"><ellipse cx="202" cy="255" rx="11" ry="14"/></clipPath><clipPath id="right-eye-window"><ellipse cx="253" cy="255" rx="11" ry="14"/></clipPath></defs>
+<ellipse id="hop-shadow" cx="225" cy="379" rx="82" ry="11" fill="#001d29" opacity=".18"/>
+<g id="bean-rig">
+ <g id="head"><ellipse id="round-face" cx="225" cy="270" rx="102" ry="99" fill="url(#bean-yellow)" stroke="#efa834" stroke-width="5"/><path d="M145 251 Q147 211 181 195" fill="none" stroke="#fff9cc" stroke-width="7" stroke-linecap="round"/><path d="M144 268 L144 276" stroke="#fff9cc" stroke-width="5" stroke-linecap="round"/><path d="M297 234 Q310 255 310 278" fill="none" stroke="#ffe97e" stroke-width="5" stroke-linecap="round"/>
+  <g id="features">
+   <g id="eyes"><g clip-path="url(#left-eye-window)"><g id="eye-left" fill="#1b1c1c"><ellipse cx="202" cy="255" rx="11" ry="14"/><ellipse cx="199" cy="249" rx="3.5" ry="4" fill="#fff"/></g></g><g clip-path="url(#right-eye-window)"><g id="eye-right" fill="#1b1c1c"><ellipse cx="253" cy="255" rx="11" ry="14"/><ellipse cx="250" cy="249" rx="3.5" ry="4" fill="#fff"/></g></g></g>
+   <g id="eyebrows" fill="none" stroke="#a66c20" stroke-width="4" stroke-linecap="round" opacity=".7"><path d="M190 233 Q201 225 212 232"/><path d="M242 232 Q253 225 264 233"/></g>
+   <g id="smiling-eyes" fill="none" stroke="#37352c" stroke-width="5" stroke-linecap="round"><path d="M195 255 Q202 247 209 255"/><path d="M248 255 Q255 247 262 255"/></g>
+   <ellipse id="cheek" cx="276" cy="279" rx="13" ry="7" fill="#ffe664" opacity=".28"/>
+   <path id="mouth" d="M219 282 Q225 287 231 282 Q225 287 219 282" fill="#ac752b" stroke="#ac752b" stroke-width="3.5" stroke-linecap="round"/>
+
+  </g>
+  <g id="hat"><path d="M162 185 L156 118 Q155 109 164 108 L265 108 Q274 108 273 118 L267 185Z" fill="#263c42"/><path id="hat-band" d="M158 158 L271 158 L269 178 L160 178Z" style="fill:var(--theme-accent,#33D1F5)"/><ellipse cx="215" cy="184" rx="79" ry="11" fill="#263c42"/><path d="M164 115 L168 151" fill="none" stroke="#577078" stroke-opacity=".45" stroke-width="5" stroke-linecap="round"/></g>
+ </g>
+ <g id="left-ball"><circle cx="87" cy="290" r="29" fill="url(#hand-yellow)" stroke="#efa834" stroke-width="4"/><path d="M68 284 Q69 274 78 270" fill="none" stroke="#fff6c9" stroke-width="4" stroke-linecap="round"/></g>
+ <g id="horn-and-ball">
+  <g id="simple-horn"><path d="M252 281 L272 281" stroke="#e4b948" stroke-width="7" stroke-linecap="round"/><path d="M270 277 L362 255 L362 307 L270 285Z" fill="#f1bf4e"/><ellipse cx="362" cy="281" rx="9" ry="26" fill="#ffda73"/><ellipse cx="364" cy="281" rx="4" ry="18" fill="#c28d34"/></g>
+  <g id="right-ball"><circle cx="326" cy="309" r="29" fill="url(#hand-yellow)" stroke="#efa834" stroke-width="4"/><path d="M307 303 Q308 293 317 289" fill="none" stroke="#fff6c9" stroke-width="4" stroke-linecap="round"/></g>
+ </g>
+</g></svg></div>
+<div class="note" id="note-one" data-layout-ignore>♪</div><div class="note" id="note-two" data-layout-ignore>♫</div>
+<h1 id="celebration-title" class="headline" aria-label="发工资啦！" data-hold></h1>
+<svg class="twinkle" id="twinkle-0" viewBox="0 0 32 32" style="left:72px;top:147px" aria-hidden="true" data-layout-ignore><path d="M16 1 Q17 14 31 16 Q17 18 16 31 Q14 18 1 16 Q14 14 16 1" fill="#fff1ba"/></svg><svg class="twinkle" id="twinkle-1" viewBox="0 0 32 32" style="left:482px;top:187px" aria-hidden="true" data-layout-ignore><path d="M16 1 Q17 14 31 16 Q17 18 16 31 Q14 18 1 16 Q14 14 16 1" fill="#fff1ba"/></svg><svg class="twinkle" id="twinkle-2" viewBox="0 0 32 32" style="left:448px;top:124px" aria-hidden="true" data-layout-ignore><path d="M16 1 Q17 14 31 16 Q17 18 16 31 Q14 18 1 16 Q14 14 16 1" fill="#fff1ba"/></svg><svg class="twinkle" id="twinkle-3" viewBox="0 0 32 32" style="left:110px;top:206px" aria-hidden="true" data-layout-ignore><path d="M16 1 Q17 14 31 16 Q17 18 16 31 Q14 18 1 16 Q14 14 16 1" fill="#fff1ba"/></svg>
+</div>
+</div><script>
+(async function(){
+// 子场景继承父场景的声明变量，避免只读到子场景自己的空变量表。
+const locale=getComputedStyle(document.getElementById('celebration-title')).getPropertyValue('--language').trim()||'zh-Hans';
+const messages={"zh-Hans": "发工资啦！", "zh-Hant": "發薪水啦！", "en": "Payday!", "fr": "Jour de paie !", "de": "Zahltag!", "ja": "給料日！", "ko": "월급날!"};
+const lines={"zh-Hans": ["发工资啦！"], "zh-Hant": ["發薪水啦！"], "en": ["Payday!"], "fr": ["Jour", "de paie !"], "de": ["Zahltag!"], "ja": ["給料日！"], "ko": ["월급날!"]};
+// 每个字是独立 SVG 轮廓，渲染时不依赖字库或文字排版。
+const asset=window.PaydayGlyphs[locale]||window.PaydayGlyphs['zh-Hans'];
+const message=messages[locale]||messages['zh-Hans'];
+const heading=document.getElementById('celebration-title');
+heading.lang=locale;
+const segmenter=new Intl.Segmenter(locale,{granularity:'grapheme'});
+const rows=(lines[locale]||lines['zh-Hans']).map(line=>[...segmenter.segment(line)].map(item=>item.segment));
+let fontSize=locale.startsWith('zh')?138:110;
+const letterMargins=locale==='zh-Hant'?10:locale.startsWith('zh')?4:2;
+while(fontSize>56){if(rows.every(row=>row.reduce((sum,c)=>sum+asset.glyphs[c].advance*fontSize/100+letterMargins,0)<=528))break;fontSize--;}
+heading.style.fontSize=fontSize+'px';heading.setAttribute('aria-label',message);
+const baseline=(112-asset.ascent-asset.descent)/2+asset.ascent;
+let letterIndex=0;
+heading.replaceChildren(...rows.map(row=>{
+  const line=document.createElement('span');line.className='headline-line';
+  line.append(...row.map(character=>{
+    const glyph=asset.glyphs[character];const id='payday-glyph-'+letterIndex++;
+    const span=document.createElement('span');span.className='letter';span.dataset.glyph=character;
+    span.style.width=glyph.advance*fontSize/100+'px';span.style.height=fontSize*1.12+'px';span.setAttribute('aria-hidden','true');
+    // 保留原字形，沿轮廓内收 1 个字形单位，减细繁体笔画和扩大内部空隙。
+    const insetMask=locale==='zh-Hant'?`<mask id="${id}-inset" maskUnits="userSpaceOnUse" x="-8" y="${-baseline}" width="${glyph.advance+16}" height="112" style="mask-type:luminance"><path d="${glyph.path}" transform="scale(1 -1)" fill="#fff" stroke="#000" stroke-width="2" stroke-linejoin="round"/></mask>`:'';
+    const insetAttribute=locale==='zh-Hant'?` mask="url(#${id}-inset)"`:'';
+    if(glyph.path)span.innerHTML=`<svg viewBox="0 ${-baseline} ${glyph.advance} 112" aria-hidden="true"><defs><linearGradient id="${id}-fill" x1="0" y1="1" x2="0" y2="0"><stop offset="4%" stop-color="#fff9df"/><stop offset="30%" stop-color="#fff0c3"/><stop offset="70%" stop-color="#ffe7b0"/><stop offset="100%" stop-color="#ffdda0"/></linearGradient><linearGradient id="${id}-shine"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity=".44"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="${id}-clip"><path d="${glyph.path}" transform="scale(1 -1)"/></clipPath>${insetMask}</defs><g${insetAttribute}><path class="glyph-body" d="${glyph.path}" transform="scale(1 -1)" fill="url(#${id}-fill)" vector-effect="non-scaling-stroke"/><g clip-path="url(#${id}-clip)"><rect class="glyph-shine" data-advance="${glyph.advance}" x="0" y="${-asset.ascent}" width="${glyph.advance}" height="${asset.ascent+asset.descent}" fill="url(#${id}-shine)"/></g></g></svg>`;
+    return span;
+  }));return line;
+}));
+
+const tl=gsap.timeline({paused:true});
+// 只给既有 UI 缓慢虚化，人物、气球和文字始终保持清晰。
+// 粒子画布由可 seek 的时间属性驱动，倒放、跳转和逐帧检查都直接重绘同一帧。
+const confettiCanvas=document.getElementById('clock-out-confetti');
+Object.defineProperty(confettiCanvas,'celebrationTime',{set(value){ClockOutConfettiPreview.draw(confettiCanvas,value);}});
+tl.fromTo(confettiCanvas,{celebrationTime:-1.05},{celebrationTime:8.95,duration:10,ease:'none'},0);
+tl.fromTo('.letter',{opacity:0,y:24,scale:.65,rotation:-5},{opacity:1,y:0,scale:1,rotation:0,stagger:{amount:.35},duration:.55,ease:'back.out(2.2)'},.92);
+tl.fromTo('.character',{opacity:0,y:35,scale:.85},{opacity:1,y:0,scale:1,duration:.65,ease:'back.out(1.6)'},1.05);
+tl.set('#smiling-eyes',{opacity:0},0);
+tl.set('#head',{svgOrigin:'225 275'},0);tl.set('#hat',{svgOrigin:'215 184'},0);tl.set('#bean-rig',{svgOrigin:'225 369'},0);tl.set('#horn-and-ball',{svgOrigin:'282 281'},0);tl.set('#cheek',{svgOrigin:'276 279'},0);tl.set('#hop-shadow',{svgOrigin:'225 379'},0);
+// 嘴型保持相同的 MQQ 结构，防止路径点数变化时补出从原点连来的斜线。
+tl.to('#mouth',{attr:{d:'M221 281 Q225 277 229 281 Q225 285 221 281'},duration:.24},1.7);
+tl.to('#mouth',{attr:{d:'M217 280 Q225 294 233 280 Q225 282 217 280'},duration:.28},2.8);
+tl.to('#mouth',{attr:{d:'M221 281 Q225 277 229 281 Q225 285 221 281'},duration:.24},4.17);
+tl.to('#mouth',{attr:{d:'M217 280 Q225 294 233 280 Q225 282 217 280'},duration:.28},5.28);
+// 眨眼时一起压扁黑眼和高光，不露出留在原位的眼白。
+tl.to('#eyebrows',{y:-4,duration:.2,ease:'power2.out'},1.25).to('#eyebrows',{y:0,duration:.25},2.8);
+tl.to('#head',{rotation:3,y:-3,duration:.2},1.3);
+tl.to('#cheek',{scale:1.2,opacity:.5,duration:.25},1.35);
+tl.to('#eye-left,#eye-right',{scaleY:.85,transformOrigin:'50% 50%',duration:.2},1.45);
+tl.to('#eyes',{opacity:0,duration:.12},1.94).to('#smiling-eyes',{opacity:1,duration:.15},1.96);
+tl.to('#smiling-eyes',{opacity:0,duration:.12},2.33).to('#eyes',{opacity:1,duration:.12},2.35);
+tl.to('#eye-left,#eye-right',{scaleY:.12,duration:.08,yoyo:true,repeat:1},2.61);
+tl.to('#eye-left,#eye-right',{scaleY:1,duration:.15},2.82);
+tl.to('#eyebrows',{y:-4,duration:.2},4.1).to('#eyebrows',{y:0,duration:.25},5.3);
+tl.to('#eye-left,#eye-right',{scaleY:.85,duration:.2},4.1);
+tl.to('#eyes',{opacity:0,duration:.12},4.43).to('#smiling-eyes',{opacity:1,duration:.15},4.45);
+tl.to('#smiling-eyes',{opacity:0,duration:.12},4.81).to('#eyes',{opacity:1,duration:.12},4.83);
+tl.to('#eye-left,#eye-right',{scaleY:.12,duration:.08,yoyo:true,repeat:1},5.13);
+tl.to('#eye-left,#eye-right',{scaleY:1,duration:.15},5.31);
+// 头先动、手球后跟，表情只用小幅的眨眼和转向。
+tl.to('#head',{rotation:-6,scaleX:.97,y:5,duration:.3},1.63).to('#features',{x:20,duration:.3},1.65);
+tl.to('#horn-and-ball',{x:5,y:2,rotation:-3,duration:.25},1.75);
+tl.to('#left-ball',{x:-7,y:-28,duration:.3,ease:'power2.out'},1.8);
+tl.to('#cheek',{scale:1.42,opacity:.7,duration:.25},1.85);
+tl.to('#head',{rotation:3,y:-4,scaleX:1.02,duration:.28,ease:'power2.out'},1.98);
+tl.to('#hat',{rotation:-5,y:-4,duration:.26},2.1).to('#hat',{rotation:1,y:0,duration:.4},2.4);
+tl.to('#horn-and-ball',{rotation:2,y:-3,duration:.28},2.05);
+tl.to('#left-ball',{x:1,y:0,duration:.35},2.3);
+tl.to('#head',{rotation:-3,y:0,scaleX:1,duration:.35},2.32);
+tl.to('#cheek',{scale:1,opacity:.28,duration:.3},2.4);
+tl.to('#horn-and-ball',{rotation:17,x:9,y:16,duration:.14},2.75);
+tl.to('#features',{x:0,y:-2,duration:.4},2.8);
+tl.to('#eyes',{opacity:0,duration:.12},2.85).to('#smiling-eyes',{opacity:1,duration:.18},2.9);
+tl.to('#head',{rotation:-9,x:-2,y:-3,duration:.45},2.8);
+// 双手同时向外上举，并让整个黄豆人蓄力、腾空和落下。
+tl.to('#left-ball',{x:-14,y:-120,duration:.26,ease:'power2.out'},2.9);
+tl.to('#horn-and-ball',{x:42,y:-108,rotation:-10,duration:.26,ease:'power2.out'},2.92);
+tl.to('#bean-rig',{y:8,scaleX:1.07,scaleY:.93,duration:.13,ease:'power2.in'},2.91)
+  .to('#bean-rig',{y:-40,scaleX:.97,scaleY:1.03,rotation:-4,duration:.25,ease:'power2.out'},3.04)
+  .to('#bean-rig',{y:7,scaleX:1.06,scaleY:.94,rotation:2,duration:.18,ease:'power2.in'},3.34)
+  .to('#bean-rig',{y:0,scaleX:1,scaleY:1,rotation:0,duration:.22,ease:'power2.out'},3.52);
+tl.to('#hop-shadow',{scaleX:.68,opacity:.1,duration:.25},3.04).to('#hop-shadow',{scaleX:1.1,opacity:.21,duration:.18},3.34).to('#hop-shadow',{scaleX:1,opacity:.18,duration:.22},3.52);
+tl.to('#left-ball',{x:0,y:0,duration:.32,ease:'power2.inOut'},3.55);
+tl.to('#horn-and-ball',{x:4,y:0,rotation:0,duration:.34,ease:'power2.inOut'},3.57);
+tl.to('#hat',{rotation:6,y:-3,duration:.3},2.97).to('#hat',{rotation:-2,y:0,duration:.4},3.33);
+tl.to('#horn-and-ball',{rotation:0,x:4,y:0,duration:.4},4.1).to('#features',{x:20,y:0,duration:.4},4.1);
+tl.to('#smiling-eyes',{opacity:0,duration:.15},4.2).to('#eyes',{opacity:1,duration:.15},4.25);
+tl.to('#head',{rotation:4,x:0,y:-3,duration:.35},4.1).to('#cheek',{scale:1.22,duration:.25},4.35);
+tl.to('#left-ball',{x:-8,y:-23,duration:.3},4.37).to('#left-ball',{x:3,y:-3,duration:.35},4.7);
+tl.to('#hat',{rotation:-5,y:-4,duration:.25},4.4).to('#hat',{rotation:2,y:0,duration:.4},4.72);
+tl.to('#head',{rotation:-3,y:0,duration:.35},4.65).to('#cheek',{scale:1,duration:.3},4.95);
+tl.to('#horn-and-ball',{rotation:20,x:9,y:14,duration:.14},5.25).to('#features',{x:0,y:-1,duration:.4},5.3);
+tl.to('#eyes',{opacity:0,duration:.13},5.35).to('#smiling-eyes',{opacity:1,duration:.18},5.4);
+tl.to('#head',{rotation:-7,y:-2,duration:.4},5.3);
+tl.to('#left-ball',{x:-14,y:-130,duration:.25,ease:'power2.out'},5.42);
+tl.to('#horn-and-ball',{x:44,y:-118,rotation:-12,duration:.25,ease:'power2.out'},5.44);
+tl.to('#bean-rig',{y:8,scaleX:1.08,scaleY:.92,duration:.13,ease:'power2.in'},5.35)
+  .to('#bean-rig',{y:-46,scaleX:.96,scaleY:1.04,rotation:4,duration:.25,ease:'power2.out'},5.49)
+  .to('#bean-rig',{y:8,scaleX:1.07,scaleY:.93,rotation:-2,duration:.17,ease:'power2.in'},5.79)
+  .to('#bean-rig',{y:-40,scaleX:.98,scaleY:1.02,rotation:-4,duration:.25,ease:'power2.out'},6.02)
+  .to('#bean-rig',{y:7,scaleX:1.06,scaleY:.94,rotation:2,duration:.17,ease:'power2.in'},6.32)
+  .to('#bean-rig',{y:0,scaleX:1,scaleY:1,rotation:0,duration:.23,ease:'power2.out'},6.49);
+tl.to('#hop-shadow',{scaleX:.62,opacity:.09,duration:.25},5.49).to('#hop-shadow',{scaleX:1.12,opacity:.22,duration:.17},5.79).to('#hop-shadow',{scaleX:.68,opacity:.1,duration:.25},6.02).to('#hop-shadow',{scaleX:1.1,opacity:.21,duration:.17},6.32).to('#hop-shadow',{scaleX:1,opacity:.18,duration:.23},6.49);
+tl.to('#left-ball',{x:-20,y:-114,duration:.2},5.86).to('#left-ball',{x:-9,y:-130,duration:.2},6.15).to('#left-ball',{x:0,y:0,duration:.36,ease:'power2.inOut'},6.67);
+tl.to('#horn-and-ball',{x:50,y:-103,rotation:-7,duration:.2},5.88).to('#horn-and-ball',{x:44,y:-118,rotation:-12,duration:.2},6.17).to('#horn-and-ball',{x:12,y:16,rotation:18,duration:.38,ease:'power2.inOut'},6.69);
+tl.to('#hat',{rotation:5,y:-8,duration:.3},5.53).to('#hat',{rotation:-2,y:0,duration:.45},5.95);
+// 两次轻微的文字波浪，保持整句稳定可读。
+tl.to('.letter',{y:-8,stagger:{amount:.24},duration:.18,ease:'sine.out',yoyo:true,repeat:1},3.12);
+// 渐变扫光参考 HyperFrames 的 Apache-2.0 text-shimmer，适配为暖金色和逐字节奏。
+tl.fromTo('.glyph-shine',{x:(i,node)=>-Number(node.dataset.advance)},{x:(i,node)=>Number(node.dataset.advance),stagger:{amount:.3},duration:1.4,ease:'sine.inOut'},1.55);
+tl.to('.glyph-shine',{x:(i,node)=>-Number(node.dataset.advance),stagger:{amount:.3},duration:1.6,ease:'sine.inOut'},4.85);
+document.querySelectorAll('.twinkle').forEach((star,i)=>{const start=1.5+i*.17;tl.fromTo(star,{opacity:0,scale:.2,rotation:-20},{opacity:.9,scale:1,rotation:15,duration:.28},start).to(star,{opacity:0,scale:.6,duration:.45},start+.3);tl.fromTo(star,{opacity:0,scale:.25,rotation:-20},{opacity:.8,scale:.85,rotation:15,duration:.25},5.5+i*.12).to(star,{opacity:0,scale:.6,duration:.35},5.85+i*.12);});
+document.querySelectorAll('.balloon').forEach((balloon,i)=>{const start=1.35+(i%10)*.15+Math.floor(i/10)*.7;const duration=3.8+(i%5)*.14;tl.fromTo(balloon,{y:0,x:0,rotation:(i%2?1:-1)*7,opacity:.9},{y:-1060,x:(i%2?1:-1)*(12+i%4*7),rotation:(i%2?-1:1)*7,duration,ease:'none'},start);tl.to(balloon,{opacity:0,duration:.3},start+duration-.3);});
+['#note-one','#note-two'].forEach((note,i)=>{[2.05,4.4].forEach(start=>{tl.fromTo(note,{opacity:0,x:0,y:0,scale:.6},{opacity:.85,x:12+i*14,y:-28-i*14,scale:1,duration:.25,immediateRender:false},start+i*.14).to(note,{opacity:0,y:'-=18',duration:.3},start+.3+i*.14);});});
+tl.to('.letter',{opacity:0,y:-10,duration:.35,stagger:{amount:.15}},7.5);
+tl.to('.character',{opacity:0,y:20,scale:.94,duration:.4,ease:'power2.in'},7.65);
+window.dayperkTimeline=tl;
+const notify=event=>window.webkit?.messageHandlers.payday.postMessage(event);
+notify('started');
+if(window.dayperkOptions.reduceMotion){tl.pause(2.5);setTimeout(()=>notify('finished'),2500);}
+else{tl.eventCallback('onComplete',()=>notify('finished'));tl.play(0);}
+})();
+</script><style>
+#root{inset:auto;left:var(--offset-x,0px);top:var(--offset-y,0px);width:576px;height:799px;background:transparent;transform-origin:top left;transform:scale(var(--fit,1))}
+.panel{background:transparent;box-shadow:none;border-radius:0}
+</style><script>
+function resize(){const width=innerWidth,height=innerHeight,scale=Math.min(width/576,height/799);const style=document.documentElement.style;style.setProperty('--fit',scale);style.setProperty('--offset-x',(width-576*scale)/2+'px');style.setProperty('--offset-y',(height-799*scale)/2+'px');}
+resize();window.addEventListener('resize',resize);
+</script></body></html>

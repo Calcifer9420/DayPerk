@@ -1,0 +1,8 @@
+GSAP 3.15.0
+Copyright 2026 GreenSock. All rights reserved.
+GSAP Standard "No Charge" License
+https://gsap.com/standard-license/
+https://gsap.com/community/standard-license/
+
+GSAP is used only to play DayPerk's bundled payday celebration. No animation editor or external service is included. The original copyright and license-link header remains in PaydayGSAP.js.
+The standard license permits commercial digital-interface use at no charge and restricts competing visual animation-building products. GSAP retains its own license and is not covered by DayPerk's PolyForm license.

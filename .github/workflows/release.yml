@@ -1,0 +1,16 @@
+# DayPerk，许可条款见仓库 LICENSE。
+name: Build and Test DayPerk
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test
+        run: xcodebuild -project DayPerk/DayPerk.xcodeproj -scheme DayPerk -destination 'platform=macOS' DAYPERK_BUNDLE_IDENTIFIER=app.dayperk.tests.ci CODE_SIGNING_ALLOWED=NO test -only-testing:DayPerkTests

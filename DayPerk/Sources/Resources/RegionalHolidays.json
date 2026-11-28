@@ -1,0 +1,6056 @@
+[
+  {
+    "country": "SG",
+    "year": 2026,
+    "fetchedAt": 817231743.508862,
+    "holidays": [
+      {
+        "date": "2026-01-01",
+        "localName": "New Year's Day",
+        "name": "New Year's Day",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-17",
+        "localName": "Chinese New Year",
+        "name": "Chinese New Year",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-18",
+        "localName": "Chinese New Year",
+        "name": "Chinese New Year",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-03-21",
+        "localName": "Hari Raya Puasa",
+        "name": "Hari Raya Puasa",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-03",
+        "localName": "Good Friday",
+        "name": "Good Friday",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-01",
+        "localName": "Labour Day",
+        "name": "Labour Day",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-27",
+        "localName": "Hari Raya Haji",
+        "name": "Hari Raya Haji",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-06-01",
+        "localName": "Vesak Day",
+        "name": "Vesak Day",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "localName": "National Day",
+        "name": "National Day",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-09",
+        "localName": "Deepavali",
+        "name": "Deepavali",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-25",
+        "localName": "Christmas Day",
+        "name": "Christmas Day",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "SG",
+    "year": 2027,
+    "fetchedAt": 817231743.5087922,
+    "holidays": [
+      {
+        "date": "2027-01-01",
+        "localName": "New Year's Day",
+        "name": "New Year's Day",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-06",
+        "localName": "Chinese New Year",
+        "name": "Chinese New Year",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-08",
+        "localName": "Chinese New Year",
+        "name": "Chinese New Year",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-10",
+        "localName": "Hari Raya Puasa",
+        "name": "Hari Raya Puasa",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-26",
+        "localName": "Good Friday",
+        "name": "Good Friday",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-01",
+        "localName": "Labour Day",
+        "name": "Labour Day",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-17",
+        "localName": "Hari Raya Haji",
+        "name": "Hari Raya Haji",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-20",
+        "localName": "Vesak Day",
+        "name": "Vesak Day",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-09",
+        "localName": "National Day",
+        "name": "National Day",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-10-28",
+        "localName": "Deepavali",
+        "name": "Deepavali",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-25",
+        "localName": "Christmas Day",
+        "name": "Christmas Day",
+        "countryCode": "SG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "AU",
+    "year": 2026,
+    "fetchedAt": 817231746.4810021,
+    "holidays": [
+      {
+        "date": "2026-01-01",
+        "localName": "New Year's Day",
+        "name": "New Year's Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-01-26",
+        "localName": "Australia Day",
+        "name": "Australia Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-03-02",
+        "localName": "Labour Day",
+        "name": "Labour Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-WA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-03-09",
+        "localName": "Canberra Day",
+        "name": "Canberra Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-ACT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-03-09",
+        "localName": "Adelaide Cup Day",
+        "name": "Adelaide Cup Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-SA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-03-09",
+        "localName": "Eight Hours Day",
+        "name": "Eight Hours Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-TAS"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-03-09",
+        "localName": "Labour Day",
+        "name": "Labour Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-VIC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-03",
+        "localName": "Good Friday",
+        "name": "Good Friday",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-04",
+        "localName": "Easter Eve",
+        "name": "Holy Saturday",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-ACT",
+          "AU-NSW",
+          "AU-NT",
+          "AU-QLD",
+          "AU-SA",
+          "AU-VIC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "localName": "Easter Sunday",
+        "name": "Easter Sunday",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-ACT",
+          "AU-NSW",
+          "AU-NT",
+          "AU-QLD",
+          "AU-SA",
+          "AU-VIC",
+          "AU-WA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-06",
+        "localName": "Easter Monday",
+        "name": "Easter Monday",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-25",
+        "localName": "Anzac Day",
+        "name": "Anzac Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-SA",
+          "AU-TAS",
+          "AU-VIC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-27",
+        "localName": "Anzac Day",
+        "name": "Anzac Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-NSW",
+          "AU-ACT",
+          "AU-WA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-25",
+        "localName": "Anzac Day",
+        "name": "Anzac Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-NT",
+          "AU-QLD"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-04",
+        "localName": "May Day",
+        "name": "May Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-NT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-04",
+        "localName": "Labour Day",
+        "name": "Labour Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-QLD"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-06-01",
+        "localName": "Reconciliation Day",
+        "name": "Reconciliation Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-ACT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-06-01",
+        "localName": "Western Australia Day",
+        "name": "Western Australia Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-WA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-06-08",
+        "localName": "King's Birthday",
+        "name": "King's Birthday",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-ACT",
+          "AU-NSW",
+          "AU-NT",
+          "AU-SA",
+          "AU-TAS",
+          "AU-VIC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-03",
+        "localName": "Picnic Day",
+        "name": "Picnic Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-NT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-09-25",
+        "localName": "Friday before AFL Grand Final",
+        "name": "Friday before AFL Grand Final",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-VIC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "localName": "King's Birthday",
+        "name": "King's Birthday",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-WA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-10-05",
+        "localName": "Labour Day",
+        "name": "Labour Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-ACT",
+          "AU-NSW",
+          "AU-SA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-10-05",
+        "localName": "King's Birthday",
+        "name": "King's Birthday",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-QLD"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "localName": "Melbourne Cup",
+        "name": "Melbourne Cup",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-VIC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-25",
+        "localName": "Christmas Day",
+        "name": "Christmas Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-28",
+        "localName": "Boxing Day",
+        "name": "St. Stephen's Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "AU",
+    "year": 2027,
+    "fetchedAt": 817231743.508457,
+    "holidays": [
+      {
+        "date": "2027-01-01",
+        "localName": "New Year's Day",
+        "name": "New Year's Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-01-26",
+        "localName": "Australia Day",
+        "name": "Australia Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-01",
+        "localName": "Labour Day",
+        "name": "Labour Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-WA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-08",
+        "localName": "Canberra Day",
+        "name": "Canberra Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-ACT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-08",
+        "localName": "Adelaide Cup Day",
+        "name": "Adelaide Cup Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-SA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-08",
+        "localName": "Eight Hours Day",
+        "name": "Eight Hours Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-TAS"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-08",
+        "localName": "Labour Day",
+        "name": "Labour Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-VIC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-26",
+        "localName": "Good Friday",
+        "name": "Good Friday",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-27",
+        "localName": "Easter Eve",
+        "name": "Holy Saturday",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-ACT",
+          "AU-NSW",
+          "AU-NT",
+          "AU-QLD",
+          "AU-SA",
+          "AU-VIC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-28",
+        "localName": "Easter Sunday",
+        "name": "Easter Sunday",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-ACT",
+          "AU-NSW",
+          "AU-NT",
+          "AU-QLD",
+          "AU-SA",
+          "AU-VIC",
+          "AU-WA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-29",
+        "localName": "Easter Monday",
+        "name": "Easter Monday",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-04-25",
+        "localName": "Anzac Day",
+        "name": "Anzac Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-SA",
+          "AU-TAS",
+          "AU-VIC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-04-26",
+        "localName": "Anzac Day",
+        "name": "Anzac Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-NSW",
+          "AU-ACT",
+          "AU-WA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-04-26",
+        "localName": "Anzac Day",
+        "name": "Anzac Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-NT",
+          "AU-QLD"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-03",
+        "localName": "May Day",
+        "name": "May Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-NT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-03",
+        "localName": "Labour Day",
+        "name": "Labour Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-QLD"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-31",
+        "localName": "Reconciliation Day",
+        "name": "Reconciliation Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-ACT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-06-07",
+        "localName": "Western Australia Day",
+        "name": "Western Australia Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-WA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-06-14",
+        "localName": "King's Birthday",
+        "name": "King's Birthday",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-ACT",
+          "AU-NSW",
+          "AU-NT",
+          "AU-SA",
+          "AU-TAS",
+          "AU-VIC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-02",
+        "localName": "Picnic Day",
+        "name": "Picnic Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-NT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-09-24",
+        "localName": "Friday before AFL Grand Final (Tentative Date)",
+        "name": "Friday before AFL Grand Final (Tentative Date)",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-VIC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-09-27",
+        "localName": "King's Birthday",
+        "name": "King's Birthday",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-WA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-10-04",
+        "localName": "Labour Day",
+        "name": "Labour Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-ACT",
+          "AU-NSW",
+          "AU-SA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-10-04",
+        "localName": "King's Birthday",
+        "name": "King's Birthday",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-QLD"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-11-02",
+        "localName": "Melbourne Cup",
+        "name": "Melbourne Cup",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "AU-VIC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-27",
+        "localName": "Christmas Day",
+        "name": "Christmas Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-28",
+        "localName": "Boxing Day",
+        "name": "St. Stephen's Day",
+        "countryCode": "AU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "US",
+    "year": 2026,
+    "fetchedAt": 817231744.3167369,
+    "holidays": [
+      {
+        "date": "2026-01-01",
+        "localName": "New Year's Day",
+        "name": "New Year's Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2026-01-19",
+        "localName": "Martin Luther King, Jr. Day",
+        "name": "Martin Luther King, Jr. Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2026-02-12",
+        "localName": "Lincoln's Birthday",
+        "name": "Lincoln's Birthday",
+        "countryCode": "US",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "US-CA",
+          "US-CT",
+          "US-IL",
+          "US-IN",
+          "US-KY",
+          "US-MI",
+          "US-NY",
+          "US-MO",
+          "US-OH"
+        ],
+        "launchYear": null,
+        "types": [
+          "Observance"
+        ]
+      },
+      {
+        "date": "2026-02-16",
+        "localName": "Washington's Birthday",
+        "name": "Presidents Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2026-04-03",
+        "localName": "Good Friday",
+        "name": "Good Friday",
+        "countryCode": "US",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "US-CT",
+          "US-DE",
+          "US-HI",
+          "US-IN",
+          "US-KY",
+          "US-LA",
+          "US-NC",
+          "US-ND",
+          "US-NJ",
+          "US-TN"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-03",
+        "localName": "Good Friday",
+        "name": "Good Friday",
+        "countryCode": "US",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "US-TX"
+        ],
+        "launchYear": null,
+        "types": [
+          "Optional"
+        ]
+      },
+      {
+        "date": "2026-05-08",
+        "localName": "Truman Day",
+        "name": "Truman Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "US-MO"
+        ],
+        "launchYear": null,
+        "types": [
+          "School",
+          "Authorities"
+        ]
+      },
+      {
+        "date": "2026-05-25",
+        "localName": "Memorial Day",
+        "name": "Memorial Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2026-06-19",
+        "localName": "Juneteenth National Independence Day",
+        "name": "Juneteenth National Independence Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2026-07-03",
+        "localName": "Independence Day",
+        "name": "Independence Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "localName": "Labor Day",
+        "name": "Labour Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2026-10-12",
+        "localName": "Columbus Day",
+        "name": "Columbus Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "US-AL",
+          "US-AZ",
+          "US-CO",
+          "US-CT",
+          "US-GA",
+          "US-ID",
+          "US-IL",
+          "US-IN",
+          "US-IA",
+          "US-KS",
+          "US-KY",
+          "US-LA",
+          "US-ME",
+          "US-MD",
+          "US-MA",
+          "US-MS",
+          "US-MO",
+          "US-MT",
+          "US-NE",
+          "US-NH",
+          "US-NJ",
+          "US-NM",
+          "US-NY",
+          "US-NC",
+          "US-OH",
+          "US-OK",
+          "US-PA",
+          "US-RI",
+          "US-SC",
+          "US-TN",
+          "US-UT",
+          "US-VA",
+          "US-WV"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-10-12",
+        "localName": "Columbus Day",
+        "name": "Columbus Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Bank"
+        ]
+      },
+      {
+        "date": "2026-10-12",
+        "localName": "Indigenous Peoples' Day",
+        "name": "Indigenous Peoples' Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "US-AK",
+          "US-AL",
+          "US-CA",
+          "US-HI",
+          "US-IA",
+          "US-LA",
+          "US-ME",
+          "US-MI",
+          "US-MN",
+          "US-NC",
+          "US-NE",
+          "US-NM",
+          "US-OK",
+          "US-OR",
+          "US-SD",
+          "US-TX",
+          "US-VA",
+          "US-VT",
+          "US-WI"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-11",
+        "localName": "Veterans Day",
+        "name": "Veterans Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2026-11-26",
+        "localName": "Thanksgiving Day",
+        "name": "Thanksgiving Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2026-12-25",
+        "localName": "Christmas Day",
+        "name": "Christmas Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "US",
+    "year": 2027,
+    "fetchedAt": 817231744.3047948,
+    "holidays": [
+      {
+        "date": "2027-01-01",
+        "localName": "New Year's Day",
+        "name": "New Year's Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2027-01-18",
+        "localName": "Martin Luther King, Jr. Day",
+        "name": "Martin Luther King, Jr. Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2027-02-12",
+        "localName": "Lincoln's Birthday",
+        "name": "Lincoln's Birthday",
+        "countryCode": "US",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "US-CA",
+          "US-CT",
+          "US-IL",
+          "US-IN",
+          "US-KY",
+          "US-MI",
+          "US-NY",
+          "US-MO",
+          "US-OH"
+        ],
+        "launchYear": null,
+        "types": [
+          "Observance"
+        ]
+      },
+      {
+        "date": "2027-02-15",
+        "localName": "Washington's Birthday",
+        "name": "Presidents Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2027-03-26",
+        "localName": "Good Friday",
+        "name": "Good Friday",
+        "countryCode": "US",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "US-CT",
+          "US-DE",
+          "US-HI",
+          "US-IN",
+          "US-KY",
+          "US-LA",
+          "US-NC",
+          "US-ND",
+          "US-NJ",
+          "US-TN"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-26",
+        "localName": "Good Friday",
+        "name": "Good Friday",
+        "countryCode": "US",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "US-TX"
+        ],
+        "launchYear": null,
+        "types": [
+          "Optional"
+        ]
+      },
+      {
+        "date": "2027-05-08",
+        "localName": "Truman Day",
+        "name": "Truman Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "US-MO"
+        ],
+        "launchYear": null,
+        "types": [
+          "School",
+          "Authorities"
+        ]
+      },
+      {
+        "date": "2027-05-31",
+        "localName": "Memorial Day",
+        "name": "Memorial Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2027-06-18",
+        "localName": "Juneteenth National Independence Day",
+        "name": "Juneteenth National Independence Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2027-07-05",
+        "localName": "Independence Day",
+        "name": "Independence Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2027-09-06",
+        "localName": "Labor Day",
+        "name": "Labour Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2027-10-11",
+        "localName": "Columbus Day",
+        "name": "Columbus Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "US-AL",
+          "US-AZ",
+          "US-CO",
+          "US-CT",
+          "US-GA",
+          "US-ID",
+          "US-IL",
+          "US-IN",
+          "US-IA",
+          "US-KS",
+          "US-KY",
+          "US-LA",
+          "US-ME",
+          "US-MD",
+          "US-MA",
+          "US-MS",
+          "US-MO",
+          "US-MT",
+          "US-NE",
+          "US-NH",
+          "US-NJ",
+          "US-NM",
+          "US-NY",
+          "US-NC",
+          "US-OH",
+          "US-OK",
+          "US-PA",
+          "US-RI",
+          "US-SC",
+          "US-TN",
+          "US-UT",
+          "US-VA",
+          "US-WV"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-10-11",
+        "localName": "Columbus Day",
+        "name": "Columbus Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Bank"
+        ]
+      },
+      {
+        "date": "2027-10-11",
+        "localName": "Indigenous Peoples' Day",
+        "name": "Indigenous Peoples' Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "US-AK",
+          "US-AL",
+          "US-CA",
+          "US-HI",
+          "US-IA",
+          "US-LA",
+          "US-ME",
+          "US-MI",
+          "US-MN",
+          "US-NC",
+          "US-NE",
+          "US-NM",
+          "US-OK",
+          "US-OR",
+          "US-SD",
+          "US-TX",
+          "US-VA",
+          "US-VT",
+          "US-WI"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-11-11",
+        "localName": "Veterans Day",
+        "name": "Veterans Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2027-11-25",
+        "localName": "Thanksgiving Day",
+        "name": "Thanksgiving Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      },
+      {
+        "date": "2027-12-24",
+        "localName": "Christmas Day",
+        "name": "Christmas Day",
+        "countryCode": "US",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public",
+          "Bank"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "CA",
+    "year": 2026,
+    "fetchedAt": 817231743.511488,
+    "holidays": [
+      {
+        "date": "2026-01-01",
+        "localName": "New Year's Day",
+        "name": "New Year's Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-16",
+        "localName": "Louis Riel Day",
+        "name": "Louis Riel Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-MB"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-16",
+        "localName": "Islander Day",
+        "name": "Islander Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-PE"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-16",
+        "localName": "Heritage Day",
+        "name": "Heritage Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NS"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-16",
+        "localName": "Family Day",
+        "name": "Family Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-AB",
+          "CA-BC",
+          "CA-NB",
+          "CA-ON",
+          "CA-SK"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-03-17",
+        "localName": "Saint Patrick's Day",
+        "name": "Saint Patrick's Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-03",
+        "localName": "Good Friday",
+        "name": "Good Friday",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-06",
+        "localName": "Easter Monday",
+        "name": "Easter Monday",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-AB",
+          "CA-PE"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-23",
+        "localName": "Saint George's Day",
+        "name": "Saint George's Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-18",
+        "localName": "National Patriots' Day",
+        "name": "National Patriots' Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-QC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-18",
+        "localName": "Victoria Day",
+        "name": "Victoria Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-06-21",
+        "localName": "National Aboriginal Day",
+        "name": "National Aboriginal Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-06-24",
+        "localName": "Discovery Day",
+        "name": "Discovery Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-06-24",
+        "localName": "Fête nationale du Québec",
+        "name": "National Holiday",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-QC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-07-01",
+        "localName": "Canada Day",
+        "name": "Canada Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-07-12",
+        "localName": "Orangemen's Day",
+        "name": "Orangemen's Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-03",
+        "localName": "Civic Holiday",
+        "name": "Civic Holiday",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-MB",
+          "CA-NL",
+          "CA-NT",
+          "CA-NU",
+          "CA-ON"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-03",
+        "localName": "British Columbia Day",
+        "name": "British Columbia Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-BC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-03",
+        "localName": "Heritage Day",
+        "name": "Heritage Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-AB",
+          "CA-YT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-03",
+        "localName": "New Brunswick Day",
+        "name": "New Brunswick Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NB"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-03",
+        "localName": "Natal Day",
+        "name": "Natal Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NS"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-03",
+        "localName": "Saskatchewan Day",
+        "name": "Saskatchewan Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-SK"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-17",
+        "localName": "Gold Cup Parade Day",
+        "name": "Gold Cup Parade Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-PE"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-17",
+        "localName": "Discovery Day",
+        "name": "Discovery Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-YT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "localName": "Labour Day",
+        "name": "Labour Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-09-30",
+        "localName": "National Day for Truth and Reconciliation",
+        "name": "National Day for Truth and Reconciliation",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-10-12",
+        "localName": "Thanksgiving",
+        "name": "Thanksgiving",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-11",
+        "localName": "Armistice Day",
+        "name": "Armistice Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-11",
+        "localName": "Remembrance Day",
+        "name": "Remembrance Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-AB",
+          "CA-BC",
+          "CA-NB",
+          "CA-NT",
+          "CA-NS",
+          "CA-NU",
+          "CA-PE",
+          "CA-SK",
+          "CA-YT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-25",
+        "localName": "Christmas Day",
+        "name": "Christmas Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-26",
+        "localName": "Boxing Day",
+        "name": "St. Stephen's Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-AB",
+          "CA-NB",
+          "CA-NS",
+          "CA-ON",
+          "CA-PE"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "CA",
+    "year": 2027,
+    "fetchedAt": 817231743.5128801,
+    "holidays": [
+      {
+        "date": "2027-01-01",
+        "localName": "New Year's Day",
+        "name": "New Year's Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-15",
+        "localName": "Louis Riel Day",
+        "name": "Louis Riel Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-MB"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-15",
+        "localName": "Islander Day",
+        "name": "Islander Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-PE"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-15",
+        "localName": "Heritage Day",
+        "name": "Heritage Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NS"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-15",
+        "localName": "Family Day",
+        "name": "Family Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-AB",
+          "CA-BC",
+          "CA-NB",
+          "CA-ON",
+          "CA-SK"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-17",
+        "localName": "Saint Patrick's Day",
+        "name": "Saint Patrick's Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-26",
+        "localName": "Good Friday",
+        "name": "Good Friday",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-29",
+        "localName": "Easter Monday",
+        "name": "Easter Monday",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-AB",
+          "CA-PE"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-04-23",
+        "localName": "Saint George's Day",
+        "name": "Saint George's Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-24",
+        "localName": "National Patriots' Day",
+        "name": "National Patriots' Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-QC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-24",
+        "localName": "Victoria Day",
+        "name": "Victoria Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-06-21",
+        "localName": "National Aboriginal Day",
+        "name": "National Aboriginal Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-06-24",
+        "localName": "Discovery Day",
+        "name": "Discovery Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-06-24",
+        "localName": "Fête nationale du Québec",
+        "name": "National Holiday",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-QC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-07-01",
+        "localName": "Canada Day",
+        "name": "Canada Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-07-12",
+        "localName": "Orangemen's Day",
+        "name": "Orangemen's Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-02",
+        "localName": "Civic Holiday",
+        "name": "Civic Holiday",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-MB",
+          "CA-NL",
+          "CA-NT",
+          "CA-NU",
+          "CA-ON"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-02",
+        "localName": "British Columbia Day",
+        "name": "British Columbia Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-BC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-02",
+        "localName": "Heritage Day",
+        "name": "Heritage Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-AB",
+          "CA-YT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-02",
+        "localName": "New Brunswick Day",
+        "name": "New Brunswick Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NB"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-02",
+        "localName": "Natal Day",
+        "name": "Natal Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NS"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-02",
+        "localName": "Saskatchewan Day",
+        "name": "Saskatchewan Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-SK"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-16",
+        "localName": "Gold Cup Parade Day",
+        "name": "Gold Cup Parade Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-PE"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-16",
+        "localName": "Discovery Day",
+        "name": "Discovery Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-YT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-09-06",
+        "localName": "Labour Day",
+        "name": "Labour Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-09-30",
+        "localName": "National Day for Truth and Reconciliation",
+        "name": "National Day for Truth and Reconciliation",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-10-11",
+        "localName": "Thanksgiving",
+        "name": "Thanksgiving",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-11-11",
+        "localName": "Armistice Day",
+        "name": "Armistice Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-NL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-11-11",
+        "localName": "Remembrance Day",
+        "name": "Remembrance Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-AB",
+          "CA-BC",
+          "CA-NB",
+          "CA-NT",
+          "CA-NS",
+          "CA-NU",
+          "CA-PE",
+          "CA-SK",
+          "CA-YT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-25",
+        "localName": "Christmas Day",
+        "name": "Christmas Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-26",
+        "localName": "Boxing Day",
+        "name": "St. Stephen's Day",
+        "countryCode": "CA",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "CA-AB",
+          "CA-NB",
+          "CA-NS",
+          "CA-ON",
+          "CA-PE"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "GB",
+    "year": 2026,
+    "fetchedAt": 817231743.513869,
+    "holidays": [
+      {
+        "date": "2026-01-01",
+        "localName": "New Year's Day",
+        "name": "New Year's Day",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-ENG",
+          "GB-NIR",
+          "GB-SCT",
+          "GB-WLS"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-01-02",
+        "localName": "2 January",
+        "name": "2 January",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-SCT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-03-17",
+        "localName": "Saint Patrick's Day",
+        "name": "Saint Patrick's Day",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-NIR"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-03",
+        "localName": "Good Friday",
+        "name": "Good Friday",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-06",
+        "localName": "Easter Monday",
+        "name": "Easter Monday",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-ENG",
+          "GB-WLS",
+          "GB-NIR"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-04",
+        "localName": "Early May Bank Holiday",
+        "name": "Early May Bank Holiday",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-25",
+        "localName": "Spring Bank Holiday",
+        "name": "Spring Bank Holiday",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-06-15",
+        "localName": "World Cup Bank Holiday",
+        "name": "World Cup Bank Holiday",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-SCT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-07-13",
+        "localName": "Battle of the Boyne",
+        "name": "Battle of the Boyne",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-NIR"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-03",
+        "localName": "Summer Bank Holiday",
+        "name": "Summer Bank Holiday",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-SCT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-31",
+        "localName": "Summer Bank Holiday",
+        "name": "Summer Bank Holiday",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-ENG",
+          "GB-WLS",
+          "GB-NIR"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-30",
+        "localName": "Saint Andrew's Day",
+        "name": "Saint Andrew's Day",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-SCT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-25",
+        "localName": "Christmas Day",
+        "name": "Christmas Day",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-28",
+        "localName": "Boxing Day",
+        "name": "St. Stephen's Day",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "GB",
+    "year": 2027,
+    "fetchedAt": 817231743.514585,
+    "holidays": [
+      {
+        "date": "2027-01-01",
+        "localName": "New Year's Day",
+        "name": "New Year's Day",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-ENG",
+          "GB-NIR",
+          "GB-SCT",
+          "GB-WLS"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-01-02",
+        "localName": "2 January",
+        "name": "2 January",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-SCT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-17",
+        "localName": "Saint Patrick's Day",
+        "name": "Saint Patrick's Day",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-NIR"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-26",
+        "localName": "Good Friday",
+        "name": "Good Friday",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-29",
+        "localName": "Easter Monday",
+        "name": "Easter Monday",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-ENG",
+          "GB-WLS",
+          "GB-NIR"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-03",
+        "localName": "Early May Bank Holiday",
+        "name": "Early May Bank Holiday",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-31",
+        "localName": "Spring Bank Holiday",
+        "name": "Spring Bank Holiday",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-07-12",
+        "localName": "Battle of the Boyne",
+        "name": "Battle of the Boyne",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-NIR"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-02",
+        "localName": "Summer Bank Holiday",
+        "name": "Summer Bank Holiday",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-SCT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-30",
+        "localName": "Summer Bank Holiday",
+        "name": "Summer Bank Holiday",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-ENG",
+          "GB-WLS",
+          "GB-NIR"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-11-30",
+        "localName": "Saint Andrew's Day",
+        "name": "Saint Andrew's Day",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "GB-SCT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-27",
+        "localName": "Christmas Day",
+        "name": "Christmas Day",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-28",
+        "localName": "Boxing Day",
+        "name": "St. Stephen's Day",
+        "countryCode": "GB",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "JP",
+    "year": 2026,
+    "fetchedAt": 817231743.5153489,
+    "holidays": [
+      {
+        "date": "2026-01-01",
+        "localName": "元日",
+        "name": "New Year's Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-01-12",
+        "localName": "成人の日",
+        "name": "Coming of Age Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-11",
+        "localName": "建国記念の日",
+        "name": "Foundation Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-23",
+        "localName": "天皇誕生日",
+        "name": "The Emperor's Birthday",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-03-20",
+        "localName": "春分の日",
+        "name": "Vernal Equinox Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-29",
+        "localName": "昭和の日",
+        "name": "Shōwa Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-06",
+        "localName": "憲法記念日",
+        "name": "Constitution Memorial Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-04",
+        "localName": "みどりの日",
+        "name": "Greenery Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-05",
+        "localName": "こどもの日",
+        "name": "Children's Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-07-20",
+        "localName": "海の日",
+        "name": "Marine Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-11",
+        "localName": "山の日",
+        "name": "Mountain Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-09-21",
+        "localName": "敬老の日",
+        "name": "Respect for the Aged Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-09-23",
+        "localName": "秋分の日",
+        "name": "Autumnal Equinox Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-10-12",
+        "localName": "スポーツの日",
+        "name": "Sports Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "localName": "文化の日",
+        "name": "Culture Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-23",
+        "localName": "勤労感謝の日",
+        "name": "Labour Thanksgiving Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "JP",
+    "year": 2027,
+    "fetchedAt": 817231744.3125691,
+    "holidays": [
+      {
+        "date": "2027-01-01",
+        "localName": "元日",
+        "name": "New Year's Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-01-11",
+        "localName": "成人の日",
+        "name": "Coming of Age Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-11",
+        "localName": "建国記念の日",
+        "name": "Foundation Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-23",
+        "localName": "天皇誕生日",
+        "name": "The Emperor's Birthday",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-21",
+        "localName": "春分の日",
+        "name": "Vernal Equinox Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-04-29",
+        "localName": "昭和の日",
+        "name": "Shōwa Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-03",
+        "localName": "憲法記念日",
+        "name": "Constitution Memorial Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-04",
+        "localName": "みどりの日",
+        "name": "Greenery Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-05",
+        "localName": "こどもの日",
+        "name": "Children's Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-07-19",
+        "localName": "海の日",
+        "name": "Marine Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-11",
+        "localName": "山の日",
+        "name": "Mountain Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-09-20",
+        "localName": "敬老の日",
+        "name": "Respect for the Aged Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-09-23",
+        "localName": "秋分の日",
+        "name": "Autumnal Equinox Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-10-11",
+        "localName": "スポーツの日",
+        "name": "Sports Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-11-03",
+        "localName": "文化の日",
+        "name": "Culture Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-11-23",
+        "localName": "勤労感謝の日",
+        "name": "Labour Thanksgiving Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "KR",
+    "year": 2026,
+    "fetchedAt": 817231745.8915,
+    "holidays": [
+      {
+        "date": "2026-01-01",
+        "localName": "새해",
+        "name": "New Year's Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-16",
+        "localName": "설날",
+        "name": "Lunar New Year",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-17",
+        "localName": "설날",
+        "name": "Lunar New Year",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-18",
+        "localName": "설날",
+        "name": "Lunar New Year",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-03-02",
+        "localName": "3·1절",
+        "name": "Independence Movement Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-01",
+        "localName": "노동절",
+        "name": "Labour Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-05",
+        "localName": "어린이날",
+        "name": "Children's Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-25",
+        "localName": "부처님 오신 날",
+        "name": "Buddha's Birthday",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-06-03",
+        "localName": "지방 선거일",
+        "name": "Local Election Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-06-06",
+        "localName": "현충일",
+        "name": "Memorial Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-07-17",
+        "localName": "제헌절",
+        "name": "Constitution Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-17",
+        "localName": "광복절",
+        "name": "Liberation Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-09-24",
+        "localName": "추석",
+        "name": "Chuseok",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-09-25",
+        "localName": "추석",
+        "name": "Chuseok",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-09-26",
+        "localName": "추석",
+        "name": "Chuseok",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-10-05",
+        "localName": "개천절",
+        "name": "National Foundation Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-10-09",
+        "localName": "한글날",
+        "name": "Hangul Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-25",
+        "localName": "크리스마스",
+        "name": "Christmas Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "KR",
+    "year": 2027,
+    "fetchedAt": 817231745.2090151,
+    "holidays": [
+      {
+        "date": "2027-01-01",
+        "localName": "새해",
+        "name": "New Year's Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-06",
+        "localName": "설날",
+        "name": "Lunar New Year",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-08",
+        "localName": "설날",
+        "name": "Lunar New Year",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-09",
+        "localName": "설날",
+        "name": "Lunar New Year",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-01",
+        "localName": "3·1절",
+        "name": "Independence Movement Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-03",
+        "localName": "노동절",
+        "name": "Labour Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-05",
+        "localName": "어린이날",
+        "name": "Children's Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-13",
+        "localName": "부처님 오신 날",
+        "name": "Buddha's Birthday",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-06-06",
+        "localName": "현충일",
+        "name": "Memorial Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-07-19",
+        "localName": "제헌절",
+        "name": "Constitution Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-16",
+        "localName": "광복절",
+        "name": "Liberation Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-09-14",
+        "localName": "추석",
+        "name": "Chuseok",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-09-15",
+        "localName": "추석",
+        "name": "Chuseok",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-09-16",
+        "localName": "추석",
+        "name": "Chuseok",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-10-04",
+        "localName": "개천절",
+        "name": "National Foundation Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-10-11",
+        "localName": "한글날",
+        "name": "Hangul Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-25",
+        "localName": "크리스마스",
+        "name": "Christmas Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "NZ",
+    "year": 2026,
+    "fetchedAt": 817257600.0,
+    "holidays": [
+      {
+        "date": "2026-01-01",
+        "localName": "New Year's Day",
+        "name": "New Year's Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-01-02",
+        "localName": "Day after New Year's Day",
+        "name": "Day after New Year's Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-01-19",
+        "localName": "Wellington Anniversary Day",
+        "name": "Wellington Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-WGN",
+          "NZ-MWT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-01-26",
+        "localName": "Auckland/Northland Anniversary Day",
+        "name": "Auckland Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-AUK",
+          "NZ-NTL",
+          "NZ-WKO",
+          "NZ-GIS",
+          "NZ-BOP"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-02",
+        "localName": "Nelson Anniversary Day",
+        "name": "Nelson Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-NSN"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-06",
+        "localName": "Waitangi Day",
+        "name": "Waitangi Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-03-09",
+        "localName": "Taranaki Anniversary Day",
+        "name": "Taranaki Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-TKI"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-03-23",
+        "localName": "Otago Anniversary Day",
+        "name": "Otago Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-OTA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-03",
+        "localName": "Good Friday",
+        "name": "Good Friday",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-06",
+        "localName": "Easter Monday",
+        "name": "Easter Monday",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-07",
+        "localName": "Southland Anniversary Day",
+        "name": "Southland Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-STL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-27",
+        "localName": "Anzac Day",
+        "name": "Anzac Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-06-01",
+        "localName": "King's Birthday",
+        "name": "King's Birthday",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-07-10",
+        "localName": "Matariki",
+        "name": "Matariki",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "localName": "Dominion Day",
+        "name": "Canterbury (South) Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-CAN"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-10-23",
+        "localName": "Hawke's Bay Anniversary Day",
+        "name": "Hawke's Bay Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-HKB"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-10-26",
+        "localName": "Labour Day",
+        "name": "Labour Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-02",
+        "localName": "Marlborough Anniversary Day",
+        "name": "Marlborough Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-MBH"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-13",
+        "localName": "Canterbury (North & Central) Anniversary Day",
+        "name": "Canterbury Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-CAN"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-30",
+        "localName": "Chatham Islands Anniversary Day",
+        "name": "Chatham Islands Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-CIT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-30",
+        "localName": "Westland Anniversary Day",
+        "name": "Westland Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-WTC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-25",
+        "localName": "Christmas Day",
+        "name": "Christmas Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-28",
+        "localName": "Boxing Day",
+        "name": "Boxing Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "NZ",
+    "year": 2027,
+    "fetchedAt": 817257600.0,
+    "holidays": [
+      {
+        "date": "2027-01-01",
+        "localName": "New Year's Day",
+        "name": "New Year's Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-01-04",
+        "localName": "Day after New Year's Day",
+        "name": "Day after New Year's Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-01-25",
+        "localName": "Wellington Anniversary Day",
+        "name": "Wellington Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-WGN",
+          "NZ-MWT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-01",
+        "localName": "Auckland/Northland Anniversary Day",
+        "name": "Auckland Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-AUK",
+          "NZ-NTL",
+          "NZ-WKO",
+          "NZ-GIS",
+          "NZ-BOP"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-01",
+        "localName": "Nelson Anniversary Day",
+        "name": "Nelson Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-NSN"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-08",
+        "localName": "Waitangi Day",
+        "name": "Waitangi Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-08",
+        "localName": "Taranaki Anniversary Day",
+        "name": "Taranaki Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-TKI"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-22",
+        "localName": "Otago Anniversary Day",
+        "name": "Otago Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-OTA"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-26",
+        "localName": "Good Friday",
+        "name": "Good Friday",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-29",
+        "localName": "Easter Monday",
+        "name": "Easter Monday",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-30",
+        "localName": "Southland Anniversary Day",
+        "name": "Southland Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-STL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-04-26",
+        "localName": "Anzac Day",
+        "name": "Anzac Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-06-07",
+        "localName": "King's Birthday",
+        "name": "King's Birthday",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-06-25",
+        "localName": "Matariki",
+        "name": "Matariki",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-09-27",
+        "localName": "Dominion Day",
+        "name": "Canterbury (South) Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-CAN"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-10-22",
+        "localName": "Hawke's Bay Anniversary Day",
+        "name": "Hawke's Bay Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-HKB"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-10-25",
+        "localName": "Labour Day",
+        "name": "Labour Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-11-01",
+        "localName": "Marlborough Anniversary Day",
+        "name": "Marlborough Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-MBH"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-11-12",
+        "localName": "Canterbury (North & Central) Anniversary Day",
+        "name": "Canterbury Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-CAN"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-11-29",
+        "localName": "Chatham Islands Anniversary Day",
+        "name": "Chatham Islands Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-CIT"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-11-29",
+        "localName": "Westland Anniversary Day",
+        "name": "Westland Anniversary Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "NZ-WTC"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-27",
+        "localName": "Christmas Day",
+        "name": "Christmas Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-28",
+        "localName": "Boxing Day",
+        "name": "Boxing Day",
+        "countryCode": "NZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "DE",
+    "year": 2026,
+    "fetchedAt": 817257600.0,
+    "holidays": [
+      {
+        "date": "2026-01-01",
+        "localName": "Neujahr",
+        "name": "New Year's Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-01-06",
+        "localName": "Heilige Drei Könige",
+        "name": "Epiphany",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-BW",
+          "DE-BY",
+          "DE-ST"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-03-08",
+        "localName": "Internationaler Frauentag",
+        "name": "International Women's Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-BE",
+          "DE-MV"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-03",
+        "localName": "Karfreitag",
+        "name": "Good Friday",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "localName": "Ostersonntag",
+        "name": "Easter Sunday",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-BB"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-06",
+        "localName": "Ostermontag",
+        "name": "Easter Monday",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-01",
+        "localName": "Tag der Arbeit",
+        "name": "Labour Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-14",
+        "localName": "Christi Himmelfahrt",
+        "name": "Ascension Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-24",
+        "localName": "Pfingstsonntag",
+        "name": "Pentecost",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-BB"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-25",
+        "localName": "Pfingstmontag",
+        "name": "Whit Monday",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-06-04",
+        "localName": "Fronleichnam",
+        "name": "Corpus Christi",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-BW",
+          "DE-BY",
+          "DE-HE",
+          "DE-NW",
+          "DE-RP",
+          "DE-SL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-15",
+        "localName": "Mariä Himmelfahrt",
+        "name": "Assumption Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-SL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-09-20",
+        "localName": "Weltkindertag",
+        "name": "World Children's Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-TH"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-10-03",
+        "localName": "Tag der Deutschen Einheit",
+        "name": "German Unity Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-10-31",
+        "localName": "Reformationstag",
+        "name": "Reformation Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-BB",
+          "DE-MV",
+          "DE-SN",
+          "DE-ST",
+          "DE-TH",
+          "DE-HB",
+          "DE-HH",
+          "DE-NI",
+          "DE-SH"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-01",
+        "localName": "Allerheiligen",
+        "name": "All Saints' Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-BW",
+          "DE-BY",
+          "DE-NW",
+          "DE-RP",
+          "DE-SL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-18",
+        "localName": "Buß- und Bettag",
+        "name": "Repentance and Prayer Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-SN"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-25",
+        "localName": "Erster Weihnachtstag",
+        "name": "Christmas Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-26",
+        "localName": "Zweiter Weihnachtstag",
+        "name": "St. Stephen's Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "DE",
+    "year": 2027,
+    "fetchedAt": 817257600.0,
+    "holidays": [
+      {
+        "date": "2027-01-01",
+        "localName": "Neujahr",
+        "name": "New Year's Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-01-06",
+        "localName": "Heilige Drei Könige",
+        "name": "Epiphany",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-BW",
+          "DE-BY",
+          "DE-ST"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-08",
+        "localName": "Internationaler Frauentag",
+        "name": "International Women's Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-BE",
+          "DE-MV"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-26",
+        "localName": "Karfreitag",
+        "name": "Good Friday",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-28",
+        "localName": "Ostersonntag",
+        "name": "Easter Sunday",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-BB"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-29",
+        "localName": "Ostermontag",
+        "name": "Easter Monday",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-01",
+        "localName": "Tag der Arbeit",
+        "name": "Labour Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-06",
+        "localName": "Christi Himmelfahrt",
+        "name": "Ascension Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-16",
+        "localName": "Pfingstsonntag",
+        "name": "Pentecost",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-BB"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-17",
+        "localName": "Pfingstmontag",
+        "name": "Whit Monday",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-27",
+        "localName": "Fronleichnam",
+        "name": "Corpus Christi",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-BW",
+          "DE-BY",
+          "DE-HE",
+          "DE-NW",
+          "DE-RP",
+          "DE-SL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-15",
+        "localName": "Mariä Himmelfahrt",
+        "name": "Assumption Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-SL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-09-20",
+        "localName": "Weltkindertag",
+        "name": "World Children's Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-TH"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-10-03",
+        "localName": "Tag der Deutschen Einheit",
+        "name": "German Unity Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-10-31",
+        "localName": "Reformationstag",
+        "name": "Reformation Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-BB",
+          "DE-MV",
+          "DE-SN",
+          "DE-ST",
+          "DE-TH",
+          "DE-HB",
+          "DE-HH",
+          "DE-NI",
+          "DE-SH"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-11-01",
+        "localName": "Allerheiligen",
+        "name": "All Saints' Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-BW",
+          "DE-BY",
+          "DE-NW",
+          "DE-RP",
+          "DE-SL"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-11-17",
+        "localName": "Buß- und Bettag",
+        "name": "Repentance and Prayer Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": false,
+        "counties": [
+          "DE-SN"
+        ],
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-25",
+        "localName": "Erster Weihnachtstag",
+        "name": "Christmas Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-26",
+        "localName": "Zweiter Weihnachtstag",
+        "name": "St. Stephen's Day",
+        "countryCode": "DE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "FR",
+    "year": 2026,
+    "fetchedAt": 817257600.0,
+    "holidays": [
+      {
+        "date": "2026-01-01",
+        "name": "1er janvier",
+        "localName": "1er janvier",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Vendredi saint",
+        "localName": "Vendredi saint",
+        "countryCode": "FR",
+        "counties": [
+          "FR-57",
+          "FR-67",
+          "FR-68"
+        ],
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-06",
+        "name": "Lundi de Pâques",
+        "localName": "Lundi de Pâques",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-01",
+        "name": "1er mai",
+        "localName": "1er mai",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-08",
+        "name": "8 mai",
+        "localName": "8 mai",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-14",
+        "name": "Ascension",
+        "localName": "Ascension",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-25",
+        "name": "Lundi de Pentecôte",
+        "localName": "Lundi de Pentecôte",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-07-14",
+        "name": "14 juillet",
+        "localName": "14 juillet",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-08-15",
+        "name": "Assomption",
+        "localName": "Assomption",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-01",
+        "name": "Toussaint",
+        "localName": "Toussaint",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-11-11",
+        "name": "11 novembre",
+        "localName": "11 novembre",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Jour de Noël",
+        "localName": "Jour de Noël",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-26",
+        "name": "2ème jour de Noël",
+        "localName": "2ème jour de Noël",
+        "countryCode": "FR",
+        "counties": [
+          "FR-57",
+          "FR-67",
+          "FR-68"
+        ],
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "FR",
+    "year": 2027,
+    "fetchedAt": 817257600.0,
+    "holidays": [
+      {
+        "date": "2027-01-01",
+        "name": "1er janvier",
+        "localName": "1er janvier",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Vendredi saint",
+        "localName": "Vendredi saint",
+        "countryCode": "FR",
+        "counties": [
+          "FR-57",
+          "FR-67",
+          "FR-68"
+        ],
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-29",
+        "name": "Lundi de Pâques",
+        "localName": "Lundi de Pâques",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-01",
+        "name": "1er mai",
+        "localName": "1er mai",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-06",
+        "name": "Ascension",
+        "localName": "Ascension",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-08",
+        "name": "8 mai",
+        "localName": "8 mai",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-17",
+        "name": "Lundi de Pentecôte",
+        "localName": "Lundi de Pentecôte",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-07-14",
+        "name": "14 juillet",
+        "localName": "14 juillet",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-08-15",
+        "name": "Assomption",
+        "localName": "Assomption",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-11-01",
+        "name": "Toussaint",
+        "localName": "Toussaint",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-11-11",
+        "name": "11 novembre",
+        "localName": "11 novembre",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Jour de Noël",
+        "localName": "Jour de Noël",
+        "countryCode": "FR",
+        "counties": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-26",
+        "name": "2ème jour de Noël",
+        "localName": "2ème jour de Noël",
+        "countryCode": "FR",
+        "counties": [
+          "FR-57",
+          "FR-67",
+          "FR-68"
+        ],
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "HK",
+    "year": 2026,
+    "fetchedAt": 817700400,
+    "holidays": [
+      {
+        "date": "2026-01-01",
+        "localName": "元旦新年",
+        "name": "New Year's Day",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-17",
+        "localName": "農曆年初一",
+        "name": "Lunar New Year",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-18",
+        "localName": "農曆年初二",
+        "name": "Second day of Lunar New Year",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-02-19",
+        "localName": "農曆年初三",
+        "name": "Third day of Lunar New Year",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-03",
+        "localName": "耶穌受難節",
+        "name": "Good Friday",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-04",
+        "localName": "耶穌受難節翌日",
+        "name": "Holy Saturday",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-06",
+        "localName": "清明節",
+        "name": "Ching Ming Festival",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-04-07",
+        "localName": "復活節星期一",
+        "name": "Easter Monday",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-01",
+        "localName": "勞動節",
+        "name": "Labour Day",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-05-25",
+        "localName": "佛誕",
+        "name": "Buddha's Birthday",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-06-19",
+        "localName": "端午節",
+        "name": "Dragon Boat Festival",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-07-01",
+        "localName": "香港特別行政區成立紀念日",
+        "name": "Hong Kong Special Administrative Region Establishment Day",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-09-26",
+        "localName": "中秋節翌日",
+        "name": "Day following the Mid-Autumn Festival",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "localName": "中華人民共和國國慶日",
+        "name": "National Day",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-10-19",
+        "localName": "重陽節",
+        "name": "Chung Yeung Festival",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-25",
+        "localName": "聖誕節",
+        "name": "Christmas Day",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2026-12-26",
+        "localName": "聖誕節翌日",
+        "name": "Boxing Day",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "HK",
+    "year": 2027,
+    "fetchedAt": 817700400,
+    "holidays": [
+      {
+        "date": "2027-01-01",
+        "localName": "元旦新年",
+        "name": "New Year's Day",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-06",
+        "localName": "農曆年初一",
+        "name": "Lunar New Year",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-08",
+        "localName": "農曆年初二",
+        "name": "Second day of Lunar New Year",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-02-09",
+        "localName": "農曆年初三",
+        "name": "Third day of Lunar New Year",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-26",
+        "localName": "耶穌受難節",
+        "name": "Good Friday",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-27",
+        "localName": "耶穌受難節翌日",
+        "name": "Holy Saturday",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-03-29",
+        "localName": "復活節星期一",
+        "name": "Easter Monday",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-04-05",
+        "localName": "清明節",
+        "name": "Ching Ming Festival",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-01",
+        "localName": "勞動節",
+        "name": "Labour Day",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-05-13",
+        "localName": "佛誕",
+        "name": "Buddha's Birthday",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-06-09",
+        "localName": "端午節",
+        "name": "Dragon Boat Festival",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-07-01",
+        "localName": "香港特別行政區成立紀念日",
+        "name": "Hong Kong Special Administrative Region Establishment Day",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-09-16",
+        "localName": "中秋節翌日",
+        "name": "Day following the Mid-Autumn Festival",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-10-01",
+        "localName": "中華人民共和國國慶日",
+        "name": "National Day",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-10-08",
+        "localName": "重陽節",
+        "name": "Chung Yeung Festival",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-25",
+        "localName": "聖誕節",
+        "name": "Christmas Day",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      },
+      {
+        "date": "2027-12-27",
+        "localName": "聖誕節翌日",
+        "name": "Boxing Day",
+        "countryCode": "HK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+          "Public"
+        ]
+      }
+    ]
+  }
+]
